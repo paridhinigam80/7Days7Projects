@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+body{
+    background-color: #f1f5f8;
+}
+.container{
+    width:80%;
+    height:40%;
+    
+    background-color: black;
+    color:white;
+    margin:auto;
+    margin-top: 10.5rem;
+    border-radius: 30px;
+}
+.btn{
+    border:2px solid white;
+    background: none;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    padding: 1px 5px;
+    margin:2.5rem 0rem;
+    color:white;
+    cursor: pointer;
+}
